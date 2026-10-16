@@ -1,0 +1,119 @@
+[
+  {
+    "question": "What is reflection of light?",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "a43ad554-4bee-46e1-88aa-6a2c52911104",
+    "created_at": "2026-10-16T14:10:04.654628Z"
+  },
+  {
+    "question": "Define the reflection of light.",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "30eeb670-d0db-47ae-9d28-a1a53e1f6371",
+    "created_at": "2026-10-16T14:10:04.657384Z"
+  },
+  {
+    "question": "What do you understand by the reflection of light?",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "636e17d8-0a42-47fb-92e3-3edf44bdecc9",
+    "created_at": "2026-10-16T14:10:04.657453Z"
+  },
+  {
+    "question": "Explain the meaning of light reflection.",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "2921ced2-5964-4c53-a038-ec6ffd4b18d0",
+    "created_at": "2026-10-16T14:10:04.657487Z"
+  },
+  {
+    "question": "State the laws of reflection of light.",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "88cebdaa-f283-4b3a-ab5f-ea13cf67eb82",
+    "created_at": "2026-10-16T14:10:04.657523Z"
+  },
+  {
+    "question": "What is the angle of reflection?",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "eafec992-04ca-4ce7-9ea1-39bc3a484238",
+    "created_at": "2026-10-16T14:10:04.657548Z"
+  },
+  {
+    "question": "The angle of incidence is 30°. What is the angle of reflection?",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "ad50cfa0-64a8-496d-b3f1-8093bf94fa12",
+    "created_at": "2026-10-16T14:10:04.657571Z"
+  },
+  {
+    "question": "What is reflection?",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection"
+    },
+    "id": "04d39bbf-b30d-4216-9c95-5bdaf9ba67b0",
+    "created_at": "2026-10-16T14:10:04.657594Z"
+  },
+  {
+    "question": "What is the difference between regular and diffuse reflection?",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "ba716b55-780a-4f73-8f89-19036841546c",
+    "created_at": "2026-10-16T14:10:04.657618Z"
+  },
+  {
+    "question": "Define the reflection of light.",
+    "tags": {
+      "subject": "Physics",
+      "concept": "reflection of light"
+    },
+    "id": "7055b329-67b0-4e8b-b594-efb6f69edd74",
+    "created_at": "2026-10-16T14:10:04.657639Z"
+  },
+  {
+    "question": "An object is placed 10 cm in front of a plane mirror. If the object moves 2 cm closer to the mirror, what is the new distance between the object and its image?",
+    "tags": {
+      "difficulty": "medium",
+      "subject": "Physics"
+    },
+    "id": "709ab383-92f5-40dd-824b-5570130ba426",
+    "created_at": "2026-10-16T14:39:12.528128Z"
+  },
+  {
+    "question": "Explain why a polished silver surface acts as a good reflector of light, while a black rough surface does not.",
+    "tags": {
+      "difficulty": "medium",
+      "subject": "Physics"
+    },
+    "id": "e1734063-ad02-423c-b1af-128f3edfcce0",
+    "created_at": "2026-10-16T14:39:12.962190Z"
+  },
+  {
+    "question": "When you look at your reflection in a plane mirror, your left hand appears to be the right hand of your image. Explain the phenomenon responsible for this observation.",
+    "tags": {
+      "difficulty": "medium",
+      "subject": "Physics"
+    },
+    "id": "4f0f8246-998a-4543-aadc-11e83f1e2358",
+    "created_at": "2026-10-16T14:39:13.118646Z"
+  }
+]

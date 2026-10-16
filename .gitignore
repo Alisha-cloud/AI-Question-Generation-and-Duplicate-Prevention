@@ -1,0 +1,19 @@
+﻿# Secrets
+backend/.env
+.env
+
+# Virtual environments
+.venv/
+backend/.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE files
+.vscode/
+.idea/
